@@ -1,0 +1,10 @@
+*{
+    --black: #2f3142;  /* Added semicolon */
+    --red: #f38ba8;  /* Added semicolon */
+    --green: #a6e3a1;  /* Added semicolon */
+    --yellow: #f9e2af;  /* Added semicolon */
+    --blue: #89b4fa;  /* Added semicolon */
+    --magenta: #89b4fa;  /* Added semicolon */
+    --cyan: #94e2d5;  /* Added semicolon */
+    --white: #bac2de;  /* Added semicolon */
+}

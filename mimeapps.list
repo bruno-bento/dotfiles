@@ -1,0 +1,5 @@
+[Default Applications]
+video/mp4=cachy-browser.desktop
+
+[Added Associations]
+video/mp4=cachy-browser.desktop;
